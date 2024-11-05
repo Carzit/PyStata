@@ -1,0 +1,10 @@
+[
+    {
+        "module": "commands.sysuse_commands",
+        "class": "SysuseCommand"
+    },
+    {
+        "module": "commands.clear_commands",
+        "class": "ClearCommand"
+    }
+]
